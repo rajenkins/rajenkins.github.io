@@ -1,16 +1,14 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Ryan Jenkins
+title:            Ryan
 #tagline:          'A Jekyll theme'
 description:      'Software Developer and Religious Studies Enthusiast'
 url:              rajenkins.me
-baseurl:          /
 
 author:
   name:           'Ryan Jenkins'
