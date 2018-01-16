@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ryan
-tagline:          'Welcome'
-description:      'Software Developer and Religious Studies enthusiast'
+title:            ryan
+tagline:          'welcome'
+description:      'software developer and religious studies enthusiast'
 url:              http://rajenkins.me
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

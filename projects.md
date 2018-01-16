@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: projects
 sidebar_link: true
 ---
 

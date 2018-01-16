@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: resume
 sidebar_link: true
 ---
 
