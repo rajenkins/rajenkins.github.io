@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            ryan
+title:            Ryan Jenkins
 tagline:          'welcome'
 description:      'software developer and religious studies enthusiast'
 url:              http://rajenkins.me
