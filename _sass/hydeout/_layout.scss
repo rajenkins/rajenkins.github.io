@@ -42,7 +42,7 @@ body {
   .site-title {
     font-family: 'Ubuntu', sans-serif;
     font-weight: normal;
-    font-size: $large-font-size;
+    font-size: inherit;
     color: rgba(255,255,255,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
